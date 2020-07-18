@@ -1,0 +1,460 @@
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\QLStore.exe.config
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\MaterialDesignColors.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\MaterialDesignColors.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.csprojAssemblyReference.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\App.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore_MarkupCompile.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore_MarkupCompile.lref
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.g.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.Properties.Resources.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.csproj.GenerateResource.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.csproj.CoreCompileInputs.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.csproj.CopyComplete
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\ExpanderControl.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\App.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\ExpanderControl.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\MainWindow.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\MainWindow.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\DetailProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\NewProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ProductTypePage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\DetailProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\NewProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ProductTypePage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\QLStore_Content.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\EntityFramework.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\EntityFramework.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Dialog.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Dialog.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\Alba.CsConsoleFormat.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Supplier_\SupplierPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Supplier_\SupplierPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ImportFromExcel.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Bill\NewBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Bill\ListBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\Aspose.Cells.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\System.Reactive.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\Aspose.Cells.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\bin\Debug\System.Reactive.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Product\ImportFromExcel.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Bill\NewBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore\QLStore\obj\Debug\Bill\ListBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.csprojAssemblyReference.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ImportFromExcel.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Bill\NewBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Bill\ListBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Dialog.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\ExpanderControl.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\MainWindow.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\DetailProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\NewProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ProductTypePage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Supplier_\SupplierPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\App.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore_Content.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore_MarkupCompile.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore_MarkupCompile.lref
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\QLStore.exe.config
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\Alba.CsConsoleFormat.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\Aspose.Cells.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\EntityFramework.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\MaterialDesignColors.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\System.Reactive.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\Aspose.Cells.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\EntityFramework.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\MaterialDesignColors.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\System.Reactive.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\App.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ImportFromExcel.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Bill\NewBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Bill\ListBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Dialog.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\ExpanderControl.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\MainWindow.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\DetailProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\NewProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Product\ProductTypePage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Supplier_\SupplierPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.g.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.Properties.Resources.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.csproj.GenerateResource.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.csproj.CoreCompileInputs.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\QLStore.csproj.CopyComplete
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Statistic\StatisticPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Statistic\StatisticPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\Resource\ResourceDictionary.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\CustomerMVVM\CustomerPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\QLStore - dang sua\QLStore\obj\Debug\CustomerMVVM\CustomerPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\QLStore.exe.config
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\QLStore.exe
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\QLStore.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\Alba.CsConsoleFormat.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\Aspose.Cells.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\EntityFramework.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\MaterialDesignColors.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\System.Reactive.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\Aspose.Cells.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\EntityFramework.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\MaterialDesignColors.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\System.Reactive.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.csprojAssemblyReference.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\CustomerMVVM\CustomerPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ImportFromExcel.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Bill\NewBillPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Bill\ListBillPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Dialog.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\ExpanderControl.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\MainWindow.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\DetailProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\NewProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ProductTypePage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Statistic\StatisticPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Supplier_\SupplierPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\App.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore_Content.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore_MarkupCompile.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore_MarkupCompile.lref
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\App.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\CustomerMVVM\CustomerPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ImportFromExcel.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Bill\NewBillPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Bill\ListBillPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Dialog.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\ExpanderControl.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\MainWindow.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\DetailProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\NewProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\ProductTypePage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Resource\ResourceDictionary.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Statistic\StatisticPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Supplier_\SupplierPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.g.resources
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.Properties.Resources.resources
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.GenerateResource.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.CoreCompileInputs.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.CopyComplete
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.exe
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\QRCoder.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.Video.DirectShow.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.Video.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.Video.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\AForge.Video.DirectShow.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\QuickAccess.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\Product\QuickAccess.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QLStore - Entity\QLStore\obj\Debug\QLStore.exe.licenses
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\QLStore.exe.config
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\QLStore.exe
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\QLStore.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.Video.DirectShow.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.Video.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\Alba.CsConsoleFormat.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\Aspose.Cells.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\EntityFramework.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\MaterialDesignColors.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\QRCoder.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\System.Reactive.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.Video.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\AForge.Video.DirectShow.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\Aspose.Cells.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\EntityFramework.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\MaterialDesignColors.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\System.Reactive.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.pdb
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\zxing.presentation.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.csprojAssemblyReference.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\CustomerMVVM\CustomerPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ImportFromExcel.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Bill\NewBillPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Bill\ListBillPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Dialog.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\ExpanderControl.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\MainWindow.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\DetailProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\NewProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ProductPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ProductTypePage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\QuickAccess.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Statistic\StatisticPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Supplier_\SupplierPage.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\App.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore_Content.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore_MarkupCompile.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore_MarkupCompile.lref
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\App.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\CustomerMVVM\CustomerPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ImportFromExcel.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Bill\NewBillPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Bill\ListBillPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Dialog.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\ExpanderControl.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\MainWindow.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\DetailProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\NewProductPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\ProductTypePage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Product\QuickAccess.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Resource\ResourceDictionary.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Statistic\StatisticPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\Supplier_\SupplierPage.baml
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.g.resources
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.Properties.Resources.resources
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.GenerateResource.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.exe.licenses
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.CoreCompileInputs.cache
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.csproj.CopyComplete
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.exe
+D:\Backup28-6-7-19\Backup-Hoand-ImportExcel\MyBackupThu7\QRCode\QLStore - Entity\QLStore\obj\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\QLStore.exe.config
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.Video.DirectShow.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.Video.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\Alba.CsConsoleFormat.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\Aspose.Cells.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\EntityFramework.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\EntityFramework.SqlServer.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\InteractiveDataDisplay.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\MaterialDesignColors.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\QRCoder.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\System.Reactive.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.presentation.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.Video.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\AForge.Video.DirectShow.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\Aspose.Cells.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Data.v20.1.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\EntityFramework.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\EntityFramework.SqlServer.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\InteractiveDataDisplay.WPF.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\MaterialDesignColors.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\System.Reactive.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.presentation.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\zxing.presentation.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.csprojAssemblyReference.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\CustomerMVVM\CustomerPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ImportFromExcel.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Bill\NewBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Bill\ListBillPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Dialog.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\ExpanderControl.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\MainWindow.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\DetailProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\NewProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ProductPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ProductTypePage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\QuickAccess.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Statistic\StatisticPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Supplier_\SupplierPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\App.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore_Content.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore_MarkupCompile.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore_MarkupCompile.lref
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\App.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\CustomerMVVM\CustomerPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ImportFromExcel.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Bill\NewBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Bill\ListBillPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Dialog.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\ExpanderControl.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\MainWindow.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\DetailProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\NewProductPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ProductTypePage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\QuickAccess.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Resource\ResourceDictionary.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Statistic\StatisticPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Supplier_\SupplierPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.g.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.Properties.Resources.resources
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.csproj.GenerateResource.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.exe.licenses
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.csproj.CoreCompileInputs.cache
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.csproj.CopyComplete
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.exe
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\QLStore.pdb
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Data.v20.1.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Mvvm.v20.1.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\HomePage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Login.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ImportTypeFromExcel.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\InforStaff.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\ListStaffpage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\NewStaffPage.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\InforWindow.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\HomePage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Login.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Product\ImportTypeFromExcel.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\InforStaff.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\ListStaffpage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\Staff_\NewStaffPage.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\InforWindow.baml
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\InforUser.g.cs
+D:\HKII 2019-2020\LT Window\Đồ án cuối kì\Store_QRCode\Store_QRCode\QLStore\obj\Debug\InforUser.baml

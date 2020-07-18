@@ -1,0 +1,139 @@
+﻿<Page x:Class="QLStore.InforUser"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:QLStore"
+      mc:Ignorable="d" 
+      d:DesignHeight="500"
+      Title="InforUser" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="517*"/>
+            <ColumnDefinition Width="283*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.Column="1" Grid.RowSpan="2">
+            <Image Source="Images/fashion.png" Margin="-72,0,-105,10">
+
+            </Image>
+        </Border>
+        <Grid >
+            <Label FontSize="18"
+                   Height="40"
+                   Foreground="DarkSlateBlue"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Center"
+                   FontWeight="DemiBold" Margin="184,0,177,0"
+                   >
+                ADMIN ACCOUNT
+            </Label>
+            <Label Margin="10,54,0,166" HorizontalAlignment="Left" Width="100" Height="30"
+                   FontSize="15">
+                Name Login
+            </Label>
+            <TextBox  Height="40"
+                     Margin="144,44,105,166"
+                      Name="adminlog" />
+            <Label Margin="10,100,0,120" 
+                   HorizontalAlignment="Left" 
+                   Width="118" Height="30"
+                   FontSize="15">
+                Old Password
+            </Label>
+            <TextBox  Height="40" 
+                     FontSize="15" 
+                     FontWeight="Heavy"
+                     Name="adminpassold"
+                     Margin="144,84,105,126"
+                     />
+
+
+            <Button Width="120" Background="DarkSlateBlue"  Foreground="AntiqueWhite"
+                    Margin="160,186,237,32"
+                    FontSize="15"
+                    Name="btnsave1"
+                    BorderThickness="0 0 1 1" Click="Btnsave1_Click">
+                Save change
+            </Button>
+            <Button Margin="306,188,91,30"
+                    Width="120" 
+                    Name="btnRefresh1"
+                    Background="DarkSlateBlue" FontSize="15" Foreground="AntiqueWhite"
+                    BorderThickness="0 0 1 1" Click="Button_Click">
+                Refresh
+            </Button>
+            <Label Margin="10,145,0,75" HorizontalAlignment="Left" Width="118" Height="30"
+                FontSize="15" Content="New Password"/>
+            <TextBox  Height="40" 
+                FontSize="15" 
+                FontWeight="Heavy"
+                x:Name="adminpassnew"
+                Margin="144,129,105,81"
+                     />
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Label FontSize="18" 
+                   Height="40"
+                   Foreground="DarkSlateBlue"
+                   VerticalAlignment="Top"
+                   HorizontalAlignment="Center"
+                   FontWeight="DemiBold" Margin="132,8,86,0" Width="182"
+                   >
+                MEMBER ACCOUNT
+            </Label>
+            <Label Margin="10,51,0,169" HorizontalAlignment="Left" Width="100" Height="30"
+                   FontSize="15">
+                Name Login
+            </Label>
+            <TextBox  Height="40"
+                     Margin="143,38,85,172"
+                     Name="memLogin"/>
+            <Label Margin="10,102,0,118" HorizontalAlignment="Left" Width="115" Height="30"
+                   FontSize="15">
+                Old Password
+            </Label>
+            <TextBox  Height="40" 
+                     FontSize="15" 
+                     FontWeight="Heavy"
+                     Name="memPassold"
+                     Margin="143,88,85,122"
+                     />
+            <Button Width="120" Background="DarkSlateBlue"  Foreground="AntiqueWhite"
+                    Margin="162,192,235,26"
+                    FontSize="15" Name="btnSave2"
+                    BorderThickness="0 0 1 1" Click="BtnSave2_Click">
+                Save change
+            </Button>
+            <Button Margin="312,194,85,24" 
+                    Name="btnfresh2"
+                    Width="120" 
+                    Background="DarkSlateBlue" FontSize="15" Foreground="AntiqueWhite"
+                    BorderThickness="0 0 1 1" Click="Btnfresh2_Click">
+                Refresh
+            </Button>
+            <Label Margin="10,149,0,71" HorizontalAlignment="Left" Width="115" Height="30"
+                FontSize="15" Content="New Password"/>
+            <TextBox  Height="40" 
+                FontSize="15" 
+                FontWeight="Heavy"
+                x:Name="memPassnew"
+                Margin="143,133,85,77"
+                     />
+        </Grid>
+        <Rectangle Fill="Black"  
+                   HorizontalAlignment="Left" 
+                   Height="2"
+                   Stroke="Black" 
+                   VerticalAlignment="Top" 
+                   Width="360" Margin="32,245,0,0"/>
+
+
+
+    </Grid>
+</Page>

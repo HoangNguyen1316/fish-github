@@ -1,0 +1,62 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"      
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    x:Class="QLStore.Product.QuickAccess"
+      mc:Ignorable="d" 
+    Loaded="Page_Loaded"
+      d:DesignHeight="400" d:DesignWidth="800"
+      Title="QuickAccess">
+
+    <Grid Margin="0,0,0,-193" Height="700">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="0,0,0,304" Grid.RowSpan="2">
+            <Label Content="Scan the Product QR-Code" Grid.ColumnSpan="2"
+               FontFamily="Sitka Subheading"
+               FontSize="28"
+               Padding="0"
+               FontWeight="Bold"
+               Foreground="DarkCyan"
+               VerticalAlignment="Top"
+               HorizontalAlignment="Center" Margin="10 10 2 0 "/>
+            <Border Margin="153,50,135,-100" Height="294">
+                <Border.Effect>
+                    <DropShadowEffect
+                    Color="Black"
+                    Direction="270"
+                    ShadowDepth="1"
+                    BlurRadius="10"/>
+                </Border.Effect>
+                <Image Stretch="Fill"
+                HorizontalAlignment="Stretch"
+                x:Name="imgCameraCode"
+                 RenderTransformOrigin="-0.281,0.74" Margin="41,6,10,10"/>
+
+            </Border>
+        </StackPanel>
+        <!--<Border Grid.Row="0"
+                    BorderBrush="Black"
+                    BorderThickness="1">
+                <Image x:Name="imgCameraCode" ></Image>
+            </Border>-->
+
+        <StackPanel Grid.Row="1" Margin="-1,154,1,0" RenderTransformOrigin="0.488,2.537">
+            <Button
+            Width="150" Content="Find"
+            FontWeight="Bold"
+            Foreground="DarkBlue"
+            FontSize="18"
+            Background="#FFAEEA00"
+            VerticalAlignment="Bottom"
+            FontFamily="Cambria"
+            Style="{StaticResource MaterialDesignRaisedButton}"
+            materialDesign:ShadowAssist.ShadowDepth="Depth4"
+            x:Name="btnFind" Click= "btnFind_Click" Margin="0,0,0,41.6"/>
+        </StackPanel>
+    </Grid>
+</Page>

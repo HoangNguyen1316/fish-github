@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="MANAGEMENT_STOREModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="ID_Customer" />
+          </Key>
+          <Property Name="ID_Customer" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Name_Cus" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address_Cus" Type="nvarchar" MaxLength="50" />
+          <Property Name="Phone" Type="char" MaxLength="10" />
+          <Property Name="Birthday" Type="datetime" />
+          <Property Name="Email" Type="char" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Detail_Product">
+          <Key>
+            <PropertyRef Name="ID_Product" />
+          </Key>
+          <Property Name="ID_Product" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="ID_TypeProduct" Type="char" MaxLength="10" />
+          <Property Name="ID_Supplier" Type="char" MaxLength="10" />
+          <Property Name="Original_Price" Type="int" />
+          <Property Name="NameProduct" Type="nvarchar" MaxLength="50" />
+          <Property Name="Description_Pro" Type="nvarchar(max)" />
+          <Property Name="Image_Path" Type="nvarchar(max)" />
+          <Property Name="Amount_Current" Type="int" />
+        </EntityType>
+        <EntityType Name="Input_Form">
+          <Key>
+            <PropertyRef Name="ID_Input" />
+          </Key>
+          <Property Name="ID_Input" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="ID_Product" Type="char" MaxLength="10" />
+          <Property Name="ID_Sup" Type="char" MaxLength="10" />
+          <Property Name="Input_Date" Type="datetime" />
+          <Property Name="Amount" Type="int" />
+        </EntityType>
+        <EntityType Name="LoginUser">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Pass" Type="char" MaxLength="20" />
+          <Property Name="NameLog" Type="char" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Output_Form">
+          <Key>
+            <PropertyRef Name="ID_Output" />
+          </Key>
+          <Property Name="ID_Output" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="ID_Product" Type="char" MaxLength="10" />
+          <Property Name="ID_Customer" Type="char" MaxLength="10" />
+          <Property Name="Amount" Type="int" />
+          <Property Name="Output_Date" Type="datetime" />
+          <Property Name="Event_" Type="nvarchar(max)" />
+          <Property Name="Price_Sale" Type="int" />
+          <Property Name="Note" Type="nvarchar(max)" />
+          <Property Name="Status" Type="nvarchar" MaxLength="50" />
+          <Property Name="BuyOnline" Type="nchar" MaxLength="10" />
+          <Property Name="Ship" Type="int" />
+        </EntityType>
+        <EntityType Name="Staff">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Name_staff" Type="nvarchar" MaxLength="50" />
+          <Property Name="Birthday" Type="datetime" />
+          <Property Name="Startwork" Type="datetime" />
+          <Property Name="Address_" Type="nvarchar(max)" />
+          <Property Name="Phone" Type="char" MaxLength="10" />
+          <Property Name="Image_path" Type="nvarchar(max)" />
+          <Property Name="position" Type="nchar" MaxLength="50" />
+          <Property Name="Sex" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="Staff_Bill">
+          <Key>
+            <PropertyRef Name="ID_Bill" />
+            <PropertyRef Name="ID_Staff" />
+          </Key>
+          <Property Name="ID_Bill" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="ID_Staff" Type="char" MaxLength="10" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Supplier">
+          <Key>
+            <PropertyRef Name="ID_sup" />
+          </Key>
+          <Property Name="ID_sup" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Name_Sup" Type="nvarchar" MaxLength="50" />
+          <Property Name="Address_sup" Type="nvarchar" MaxLength="50" />
+          <Property Name="Phone" Type="char" MaxLength="10" />
+          <Property Name="Email" Type="char" MaxLength="50" />
+          <Property Name="MoreInfo" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="Type_product">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="char" MaxLength="10" Nullable="false" />
+          <Property Name="Type_Product" Type="nchar" MaxLength="50" />
+          <Property Name="Num_Of_Product" Type="int" />
+        </EntityType>
+        <EntityContainer Name="MANAGEMENT_STOREModelStoreContainer">
+          <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Detail_Product" EntityType="Self.Detail_Product" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Input_Form" EntityType="Self.Input_Form" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LoginUser" EntityType="Self.LoginUser" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Output_Form" EntityType="Self.Output_Form" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Staff" EntityType="Self.Staff" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Staff_Bill" EntityType="Self.Staff_Bill" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Supplier" EntityType="Self.Supplier" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Type_product" EntityType="Self.Type_product" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="MANAGEMENT_STOREModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Customer">
+          <Key>
+            <PropertyRef Name="ID_Customer" />
+          </Key>
+          <Property Name="ID_Customer" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="Name_Cus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address_Cus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Phone" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Birthday" Type="DateTime" Precision="3" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Detail_Product">
+          <Key>
+            <PropertyRef Name="ID_Product" />
+          </Key>
+          <Property Name="ID_Product" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="ID_TypeProduct" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="ID_Supplier" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Original_Price" Type="Int32" />
+          <Property Name="NameProduct" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Description_Pro" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Image_Path" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Amount_Current" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Input_Form">
+          <Key>
+            <PropertyRef Name="ID_Input" />
+          </Key>
+          <Property Name="ID_Input" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="ID_Product" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="ID_Sup" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Input_Date" Type="DateTime" Precision="3" />
+          <Property Name="Amount" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Output_Form">
+          <Key>
+            <PropertyRef Name="ID_Output" />
+          </Key>
+          <Property Name="ID_Output" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="ID_Product" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="ID_Customer" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Amount" Type="Int32" />
+          <Property Name="Output_Date" Type="DateTime" Precision="3" />
+          <Property Name="Price_Sale" Type="Int32" />
+          <Property Name="Note" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="BuyOnline" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Ship" Type="Int32" />
+        </EntityType>
+        <EntityType Name="Supplier">
+          <Key>
+            <PropertyRef Name="ID_sup" />
+          </Key>
+          <Property Name="ID_sup" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="Name_Sup" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Address_sup" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Phone" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+          <Property Name="MoreInfo" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="sysdiagram">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="Type_product">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="Type_Product1" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Num_Of_Product" Type="Int32" />
+        </EntityType>
+        <EntityContainer Name="MANAGEMENT_STORE_Entities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Customers" EntityType="Self.Customer" />
+          <EntitySet Name="Detail_Product" EntityType="Self.Detail_Product" />
+          <EntitySet Name="Input_Form" EntityType="Self.Input_Form" />
+          <EntitySet Name="Output_Form" EntityType="Self.Output_Form" />
+          <EntitySet Name="Suppliers" EntityType="Self.Supplier" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+          <EntitySet Name="Type_product" EntityType="Self.Type_product" />
+          <EntitySet Name="Staffs" EntityType="MANAGEMENT_STOREModel.Staff" />
+          <EntitySet Name="Staff_Bill" EntityType="MANAGEMENT_STOREModel.Staff_Bill" />
+          <EntitySet Name="LoginUsers" EntityType="MANAGEMENT_STOREModel.LoginUser" />
+        </EntityContainer>
+        <EntityType Name="Staff">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Name_staff" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Birthday" Type="DateTime" Precision="3" />
+          <Property Name="Startwork" Type="DateTime" Precision="3" />
+          <Property Name="Address_" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Phone" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Image_path" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="position" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Sex" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Staff_Bill">
+          <Key>
+            <PropertyRef Name="ID_Bill" />
+            <PropertyRef Name="ID_Staff" />
+          </Key>
+          <Property Name="ID_Bill" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="ID_Staff" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityType Name="LoginUser">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="false" />
+          <Property Name="Pass" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+          <Property Name="NameLog" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="MANAGEMENT_STOREModelStoreContainer" CdmEntityContainer="MANAGEMENT_STORE_Entities">
+          <EntitySetMapping Name="Customers">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Customer">
+              <MappingFragment StoreEntitySet="Customer">
+                <ScalarProperty Name="ID_Customer" ColumnName="ID_Customer" />
+                <ScalarProperty Name="Name_Cus" ColumnName="Name_Cus" />
+                <ScalarProperty Name="Address_Cus" ColumnName="Address_Cus" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Detail_Product">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Detail_Product">
+              <MappingFragment StoreEntitySet="Detail_Product">
+                <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
+                <ScalarProperty Name="ID_TypeProduct" ColumnName="ID_TypeProduct" />
+                <ScalarProperty Name="ID_Supplier" ColumnName="ID_Supplier" />
+                <ScalarProperty Name="Original_Price" ColumnName="Original_Price" />
+                <ScalarProperty Name="NameProduct" ColumnName="NameProduct" />
+                <ScalarProperty Name="Description_Pro" ColumnName="Description_Pro" />
+                <ScalarProperty Name="Image_Path" ColumnName="Image_Path" />
+                <ScalarProperty Name="Amount_Current" ColumnName="Amount_Current" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Input_Form">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Input_Form">
+              <MappingFragment StoreEntitySet="Input_Form">
+                <ScalarProperty Name="ID_Input" ColumnName="ID_Input" />
+                <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
+                <ScalarProperty Name="ID_Sup" ColumnName="ID_Sup" />
+                <ScalarProperty Name="Input_Date" ColumnName="Input_Date" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Output_Form">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Output_Form">
+              <MappingFragment StoreEntitySet="Output_Form">
+                <ScalarProperty Name="Ship" ColumnName="Ship" />
+                <ScalarProperty Name="BuyOnline" ColumnName="BuyOnline" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="ID_Output" ColumnName="ID_Output" />
+                <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
+                <ScalarProperty Name="ID_Customer" ColumnName="ID_Customer" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="Output_Date" ColumnName="Output_Date" />
+                <ScalarProperty Name="Price_Sale" ColumnName="Price_Sale" />
+                <ScalarProperty Name="Note" ColumnName="Note" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Suppliers">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Supplier">
+              <MappingFragment StoreEntitySet="Supplier">
+                <ScalarProperty Name="ID_sup" ColumnName="ID_sup" />
+                <ScalarProperty Name="Name_Sup" ColumnName="Name_Sup" />
+                <ScalarProperty Name="Address_sup" ColumnName="Address_sup" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="MoreInfo" ColumnName="MoreInfo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.sysdiagram">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Type_product">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Type_product">
+              <MappingFragment StoreEntitySet="Type_product">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Type_Product1" ColumnName="Type_Product" />
+                <ScalarProperty Name="Num_Of_Product" ColumnName="Num_Of_Product" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Staffs">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Staff">
+              <MappingFragment StoreEntitySet="Staff">
+                <ScalarProperty Name="Sex" ColumnName="Sex" />
+                <ScalarProperty Name="position" ColumnName="position" />
+                <ScalarProperty Name="Image_path" ColumnName="Image_path" />
+                <ScalarProperty Name="Phone" ColumnName="Phone" />
+                <ScalarProperty Name="Address_" ColumnName="Address_" />
+                <ScalarProperty Name="Startwork" ColumnName="Startwork" />
+                <ScalarProperty Name="Birthday" ColumnName="Birthday" />
+                <ScalarProperty Name="Name_staff" ColumnName="Name_staff" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Staff_Bill">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.Staff_Bill">
+              <MappingFragment StoreEntitySet="Staff_Bill">
+                <ScalarProperty Name="ID_Staff" ColumnName="ID_Staff" />
+                <ScalarProperty Name="ID_Bill" ColumnName="ID_Bill" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LoginUsers">
+            <EntityTypeMapping TypeName="MANAGEMENT_STOREModel.LoginUser">
+              <MappingFragment StoreEntitySet="LoginUser">
+                <ScalarProperty Name="NameLog" ColumnName="NameLog" />
+                <ScalarProperty Name="Pass" ColumnName="Pass" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
